@@ -22,5 +22,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-list
-node modules
+dist
+node_modules
